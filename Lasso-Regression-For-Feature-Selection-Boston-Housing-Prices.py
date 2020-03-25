@@ -30,3 +30,5 @@ _=plt.plot(range(len(bostona.feature_names)),clf.coef_)
 _=plt.xticks(range(len(bostona.feature_names)),bostona.feature_names,rotation=60)
 _=plt.ylabel("Coefficients")
 plt.show()
+
+

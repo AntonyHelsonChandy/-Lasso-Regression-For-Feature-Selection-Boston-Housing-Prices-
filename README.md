@@ -9,18 +9,22 @@ The sklearn Boston dataset is used wisely in regression and is famous dataset fr
 House prices also tend to be higher closer to the Charles River, and houses with more rooms are pricier. 
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Priority</th>
+    <th>Attributes</th>
+
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+ <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>RM: average number of rooms per dwelling</td>
+    <td>CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</td>
+    <td>ZN: proportion of residential land zoned for lots over 25,000 sq.ft.</td>
+  <td>NOX: nitric oxides concentration (parts per 10 million)</td>
+    <td>CRIM: per capita crime rate by town</td>
   </tr>
 </table> 

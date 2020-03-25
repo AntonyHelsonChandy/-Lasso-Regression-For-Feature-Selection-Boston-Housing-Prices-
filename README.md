@@ -30,7 +30,7 @@ House prices also tend to be higher closer to the Charles River, and houses with
    <tr>
     <td>4</td>
     <td> NOX: nitric oxides concentration (parts per 10 million)</td>
-   
+    </tr>
      <tr>
     <td>5</td>
     <td> CRIM: per capita crime rate by town</td>

@@ -1,6 +1,29 @@
 # -Lasso-Regression-For-Feature-Selection-Boston-Housing-Prices-
-<h3><u>Objective:</u></h3>
+<h3>Objective:</h3>
 In this analysis we try to use lasso regression to discover the most suitable explanatory attributes that influence the prices of housing. Of these, medv is the response variable while the other 13 variables are possible predictors. At the end of the analysis, we will arrange the top five attributes based on the strength of its influence on the response (medv).
-<h3><u>Lasso Regression:</u></h3>
+<h3>Lasso Regression:</h3>
 Using the lasso regression, we can obtain the important features of the dataset, that minimizes prediction error for a quantitative response variable. The lasso does this by imposing a constraint on the model parameters that cause regression coefficients for some variables to shrink toward zero.
-
+<u>Boston Dataset:</u>
+The sklearn Boston dataset is used wisely in regression and is famous dataset from the 1970’s. There are 506 instances and 14 attributes in the dataset.
+**Data Set Characteristics:**  
+ 
+    :Number of Instances: 506 
+ 
+    :Number of Attributes: 13 numeric/categorical predictive. Median Value (attribute 14) is usually the target.
+ 
+    :Attribute Information (in order):
+        - CRIM     per capita crime rate by town
+        - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
+        - INDUS    proportion of non-retail business acres per town
+        - CHAS     Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
+        - NOX      nitric oxides concentration (parts per 10 million)
+        - RM       average number of rooms per dwelling
+        - AGE      proportion of owner-occupied units built prior to 1940
+        - DIS      weighted distances to five Boston employment centres
+        - RAD      index of accessibility to radial highways
+        - TAX      full-value property-tax rate per $10,000
+        - PTRATIO  pupil-teacher ratio by town
+        - B        1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
+        - LSTAT    % lower status of the population
+        - MEDV     Median value of owner-occupied homes in $1000's
+ 

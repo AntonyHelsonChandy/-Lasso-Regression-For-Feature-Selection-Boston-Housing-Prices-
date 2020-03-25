@@ -7,6 +7,7 @@ Using the lasso regression, we can obtain the important features of the dataset,
 The sklearn Boston dataset is used wisely in regression and is famous dataset from the 1970’s. There are 506 instances and 14 attributes in the dataset.
 <h3>Conclusion</h3>
 House prices also tend to be higher closer to the Charles River, and houses with more rooms are pricier. 
+
    <table style="width:100%">
   <tr>
     <th>Priority</th>
@@ -15,12 +16,12 @@ House prices also tend to be higher closer to the Charles River, and houses with
   </tr>
   <tr>
     <td>1</td>
-    <td>RM: average number of rooms per dwelling</td>
+    <td>RM: average number of rooms per dwelling.</td>
   
   </tr>
    <tr>
     <td>2</td>
-    <td> CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</td>
+    <td> CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).</td>
   </tr>
    <tr>
     <td>3</td>
@@ -29,10 +30,10 @@ House prices also tend to be higher closer to the Charles River, and houses with
   
    <tr>
     <td>4</td>
-    <td> NOX: nitric oxides concentration (parts per 10 million)</td>
+    <td> NOX: nitric oxides concentration (parts per 10 million).</td>
     </tr>
      <tr>
     <td>5</td>
-    <td> CRIM: per capita crime rate by town</td>
+    <td> CRIM: per capita crime rate by town.</td>
   </tr>
 </table> 

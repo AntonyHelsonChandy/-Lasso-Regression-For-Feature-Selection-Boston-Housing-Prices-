@@ -7,7 +7,7 @@ Using the lasso regression, we can obtain the important features of the dataset,
 The sklearn Boston dataset is used wisely in regression and is famous dataset from the 1970’s. There are 506 instances and 14 attributes in the dataset.
 <h3>Conclusion</h3>
 House prices also tend to be higher closer to the Charles River, and houses with more rooms are pricier. 
-<img srch="output.png">
+<img srch="https://github.com/AntonyHelsonChandy/-Lasso-Regression-For-Feature-Selection-Boston-Housing-Prices-/blob/master/output.png/output.png">
  <table style="width:100%">
   <tr>
     <th>Priority</th>

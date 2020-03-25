@@ -15,16 +15,26 @@ House prices also tend to be higher closer to the Charles River, and houses with
   </tr>
   <tr>
     <td>1</td>
-    <td>2</td>
-    <td>3</td>
- <td>4</td>
-    <td>5</td>
-  </tr>
-  <tr>
     <td>RM: average number of rooms per dwelling</td>
-    <td>CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</td>
-    <td>ZN: proportion of residential land zoned for lots over 25,000 sq.ft.</td>
-  <td>NOX: nitric oxides concentration (parts per 10 million)</td>
-    <td>CRIM: per capita crime rate by town</td>
+  
+  </tr>
+   <tr>
+    <td>2</td>
+    <td> CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</td>
+  </tr>
+   <tr>
+    <td>3</td>
+    <td> ZN: proportion of residential land zoned for lots over 25,000 sq.ft.</td>
+  </tr>
+  
+   <tr>
+    <td>4</td>
+    <td> NOX: nitric oxides concentration (parts per 10 million)</td>
+  </tr>
+  
+  
+     <tr>
+    <td>5</td>
+    <td> CRIM: per capita crime rate by town</td>
   </tr>
 </table> 
